@@ -2,9 +2,7 @@
 
 
 
-Reusable Unity IVR project foundation for Android devices.
-
-
+Reusable, continuously updated Unity IVR project foundation for Android devices (default setup for Meta Quest devices).
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -61,6 +59,50 @@ The idea of this project is to minimize or eliminate the effort required to set 
 \## Getting Started
 
 
+
+Meta Quest devices (default):
+
+
+
+1\) Clone this repository.
+
+2\) Check the most recent/relevant commit.
+
+3\) Ready to use. XR Device Simulator is working (needs to activated in Edit->Project Settings->XR Interaction Toolkit) as well as Play Mode through Meta Horizon Link (for Meta Quest devices). (All settings accessible through Edit->Project Settings->XR Plug-in Management.)
+
+
+
+
+
+PICO devices:
+
+
+
+1\) Clone this repository.
+
+2\) Check the most recent/relevant commit.
+
+3\) Switch from OpenXR to PICO in Edit->Project Settings->XR Plug-in Management->Android Settings->PICO and Fix all the issues in Edit->Project Settings->XR Plug-in Management->Project Validation.
+
+4\) Optionally, fix all issues the PICO->Portal window.
+
+5\) Ready to use.
+
+
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+© 2026 VGE Lab MU
+
+Ondřej Kvarda
+
+
+
+Contact: vgelabmu@gmail.com / kvarda.ondrej@mail.muni.cz
+
+GitHub: VGE-lab-MUNI
 
 
 
