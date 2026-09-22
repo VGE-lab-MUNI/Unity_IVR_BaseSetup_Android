@@ -70,7 +70,7 @@ The idea of this project is to minimize or eliminate the effort required to set 
 
 3\) Switch from OpenXR to PICO in Edit->Project Settings->XR Plug-in Management->Android Settings->PICO and Fix all the issues in Edit->Project Settings->XR Plug-in Management->Project Validation.
 
-4\) Optionally, fix all issues the PICO->Portal window.
+4\) Optionally, fix all issues in PICO->Portal window.
 
 5\) Ready to use.
 
