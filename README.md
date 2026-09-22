@@ -1,14 +1,12 @@
-\# Unity IVR Base Setup (Android)
+# Unity IVR Base Setup (Android)
 
 
 
 Reusable, continuously updated Unity IVR project foundation for Android devices (default setup for Meta Quest devices).
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
-
-\## Unity Version
+## Unity Version
 
 
 
@@ -16,11 +14,7 @@ Unity 6.x (currently 6000.3.11f1 LTS)
 
 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-\## Purpose
+## Purpose
 
 
 
@@ -30,11 +24,7 @@ The idea of this project is to minimize or eliminate the effort required to set 
 
 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-\## Main Packages Included
+## Main Packages Included
 
 
 
@@ -52,15 +42,11 @@ The idea of this project is to minimize or eliminate the effort required to set 
 
 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+## Getting Started
 
 
 
-\## Getting Started
-
-
-
-Meta Quest devices (default):
+### Meta Quest devices (default):
 
 
 
@@ -74,7 +60,7 @@ Meta Quest devices (default):
 
 
 
-PICO devices:
+### PICO devices:
 
 
 
@@ -90,8 +76,7 @@ PICO devices:
 
 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
+## Contact
 
 
 © 2026 VGE Lab MU
