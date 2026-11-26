@@ -304,7 +304,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.picoxr": {
-      "version": "file:D:/Desktop/PICO-Unity-Integration-SDK-main/PICO-Unity-Integration-SDK-main",
+      "version": "file:../PICO_SDK/PICO-Unity-Integration-SDK-main",
       "depth": 0,
       "source": "local",
       "dependencies": {
